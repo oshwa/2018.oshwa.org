@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>2018 Open Hardware Summit</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 27 2018,   MIT Stratton Student Center,  Second Floor: Sala De Puerto Rico</description>
+	<lastBuildDate>Fri, 05 Aug 2022 03:12:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/files/2018/01/cropped-cropped-2017OHSWiresLogo-1-32x32.png</url>
+	<title>2018 Open Hardware Summit</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">209426297</site>	<item>
+		<title>Thank You</title>
+		<link>/2018/11/20/thank-you/</link>
+		
+		<dc:creator><![CDATA[alicia]]></dc:creator>
+		<pubDate>Tue, 20 Nov 2018 03:03:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=351</guid>
+
+					<description><![CDATA[Thank you for attending the Open Hardware Summit 2018 at MIT! Photos are up: https://www.flickr.com/photos/open_hardware_summit/ Videos are up: https://www.youtube.com/watch?v=YPwwvqJnsPk Thank you to our sponsors &#8211; you make the Summit possible.]]></description>
+										<content:encoded><![CDATA[<p>Thank you for attending the Open Hardware Summit 2018 at MIT!</p>
+<p><a href="https://www.flickr.com/photos/open_hardware_summit/">Photos</a> are up: https://www.flickr.com/photos/open_hardware_summit/</p>
+<p><a href="https://www.youtube.com/watch?v=YPwwvqJnsPk">Videos</a> are up: https://www.youtube.com/watch?v=YPwwvqJnsPk</p>
+<p>Thank you to our sponsors &#8211; you make the Summit possible.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-355 size-large" src="/files/2018/11/ohs-3-1024x807.png" alt="" width="790" height="623" srcset="/files/2018/11/ohs-3-1024x807.png 1024w, /files/2018/11/ohs-3-300x236.png 300w, /files/2018/11/ohs-3-768x605.png 768w, /files/2018/11/ohs-3-200x158.png 200w, /files/2018/11/ohs-3.png 1247w" sizes="(max-width: 790px) 100vw, 790px" /></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">351</post-id>	</item>
+		<item>
+		<title>Welcome</title>
+		<link>/2018/01/19/hello-world/</link>
+		
+		<dc:creator><![CDATA[caleb]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2018 13:49:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[The 2018 Open Hardware Summit will be held Thursday, September 27th, 2018 at MIT Stratton Student Center, Second Floor: Sala De Puerto Rico (W20-202) located at 84 Massachusetts Ave, Cambridge, Massachusetts. The Open Hardware Summit is the annual conference of the 501c3 Open Source Hardware Association (OSHWA). We aim to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom. OSHWA is recognized by the IRS as&#8230; ]]></description>
+										<content:encoded><![CDATA[<p>The 2018 Open Hardware Summit will be held Thursday, September 27th, 2018 at <a href="http://web.mit.edu/eventguide/cacfacilities/stratton.html#second">MIT Stratton Student Center,</a> Second Floor: Sala De Puerto Rico (W20-202) located at <strong>84 Massachusetts Ave, Cambridge, </strong><b>Massachusetts.</b></p>
+<p>The Open Hardware Summit is the annual conference of the 501c3<a href="https://www.oshwa.org/membership/"> Open Source Hardware Association (OSHWA)</a>. We aim to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom. OSHWA is recognized by the IRS as a 501(c)(3) tax-exempt public charity and donations and sponsorships to OSHWA and the Summit are tax-deductible to the extent permitted by law.</p>
+<p>Looking to coordinate with fellow attendees? Answers to questions related to the summit? Wondering what the summit community is like? Come join us at the <a href="http://community.oshwa.org/t/open-hardware-summit-2018-mit-september-27th/183">OSHWA OHS forum here</a>!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
